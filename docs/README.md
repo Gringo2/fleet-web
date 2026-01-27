@@ -64,10 +64,7 @@ The output will be in the `build` directory.
 
 - [Project Structure](docs/structure.md)
 - [Integration Guide](docs/integration.md) (API & WebSockets)
-- [Localization Guide](docs/l10n.md) (Translations & i18n)
 - [Deployment Guide](docs/deployment.md) (Docker & Standalone)
-- [State Management](docs/state.md) (Redux Store & Data Flow)
-- [Map Architecture](docs/map.md) (MapLibre Layers & Components)
 - [Backend Documentation](../traccar/README.md)
 
 ## License
