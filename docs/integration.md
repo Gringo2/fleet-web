@@ -1,6 +1,6 @@
 # Integration Guide: Frontend & Backend Communication
 
-This document explains how the Traccar web interface interacts with the Traccar backend.
+This document explains how the Fleet web interface interacts with the Fleet backend.
 
 ## 1. REST API Interaction
 

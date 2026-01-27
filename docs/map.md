@@ -1,6 +1,6 @@
 # Map Architecture
 
-The map is the central component of the Traccar web interface. It is built on top of **MapLibre GL JS**, a high-performance WebGL-based vector map library.
+The map is the central component of the Fleet web interface. It is built on top of **MapLibre GL JS**, a high-performance WebGL-based vector map library.
 
 ## 1. Core Components
 
@@ -19,7 +19,7 @@ The map is composed of several functional layers, each managed by a React compon
 ## 3. Customization
 
 ### Map Styles
-Map styles are configured in the `Server` settings or `traccar.xml`. The app supports:
+Map styles are configured in the `Server` settings or `Fleet.xml`. The app supports:
 - **XYZ Tiles**: Standard raster tiles (OSM, Google Maps).
 - **Vector Styles**: Mapbox/MapLibre GL JSON styles.
 

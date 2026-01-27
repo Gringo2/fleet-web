@@ -1,6 +1,6 @@
 # State Management Guide
 
-Traccar Web uses **Redux Toolkit** to manage the global application state. This ensures that changes (like a device moving) are instantly reflected across different components (Map, Device List, Reports).
+Fleet Web uses **Redux Toolkit** to manage the global application state. This ensures that changes (like a device moving) are instantly reflected across different components (Map, Device List, Reports).
 
 ## Core Slices
 

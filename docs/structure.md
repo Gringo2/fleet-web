@@ -1,6 +1,6 @@
-# Project Structure - Traccar Web
+# Project Structure - Fleet Web
 
-This document outlines the organization of the `src` directory in the Traccar web interface.
+This document outlines the organization of the `src` directory in the Fleet web interface.
 
 ## Core Directories
 

@@ -1,12 +1,12 @@
-# Traccar Web Interface
+# Fleet Web Interface
 
-Modern, responsive web interface for the [Traccar GPS tracking platform](https://www.traccar.org).
+Modern, responsive web interface for the [Fleet GPS tracking platform](https://www.Fleet.org).
 
 ## Overview
 
-Traccar is an open-source server for various GPS tracking devices. This repository contains the official React-based web interface. It provides real-time tracking, historical reports, geofencing, and account management.
+Fleet is an open-source server for various GPS tracking devices. This repository contains the official React-based web interface. It provides real-time tracking, historical reports, geofencing, and account management.
 
-For the backend server, please check the [main Traccar repository](https://github.com/traccar/traccar).
+For the backend server, please check the [main Fleet repository](https://github.com/Fleet/Fleet).
 
 ## Tech Stack
 
@@ -39,7 +39,7 @@ To start the development server:
 npm run start
 ```
 
-The app will be available at `http://localhost:3000`. By default, it expects a Traccar backend running at `http://localhost:8082`. You can change this in `vite.config.js`.
+The app will be available at `http://localhost:3000`. By default, it expects a Fleet backend running at `http://localhost:8082`. You can change this in `vite.config.js`.
 
 ### Build
 
@@ -65,7 +65,7 @@ The output will be in the `build` directory.
 - [Project Structure](docs/structure.md)
 - [Integration Guide](docs/integration.md) (API & WebSockets)
 - [Deployment Guide](docs/deployment.md) (Docker & Standalone)
-- [Backend Documentation](../traccar/README.md)
+- [Backend Documentation](../Fleet/README.md)
 
 ## License
 

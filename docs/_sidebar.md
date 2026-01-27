@@ -5,4 +5,4 @@
 * [Integration Guide](integration.md)
 * [Localization (i18n)](l10n.md)
 * [Deployment Guide](deployment.md)
-* [Contributing](https://github.com/traccar/traccar-web/blob/master/CONTRIBUTING.md)
+* [Contributing](https://github.com/Fleet/Fleet-web/blob/master/CONTRIBUTING.md)
