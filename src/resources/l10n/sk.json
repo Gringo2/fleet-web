@@ -550,7 +550,7 @@
     "notificatorMail": "E-Mail",
     "notificatorSms": "SMS",
     "notificatorFirebase": "Push Notifikácia",
-    "notificatorTraccar": "Push Notifikácia",
+    "notificatorFleet": "Push Notifikácia",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
     "reportReplay": "Prehrať",

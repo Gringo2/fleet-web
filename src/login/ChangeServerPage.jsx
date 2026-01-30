@@ -22,11 +22,11 @@ const currentServer = `${window.location.protocol}//${window.location.host}`;
 
 const officialServers = [
   currentServer,
-  'https://demo.traccar.org',
-  'https://demo2.traccar.org',
-  'https://demo3.traccar.org',
-  'https://demo4.traccar.org',
-  'https://server.traccar.org',
+  'https://demo.Fleet.org',
+  'https://demo2.Fleet.org',
+  'https://demo3.Fleet.org',
+  'https://demo4.Fleet.org',
+  'https://server.Fleet.org',
   'http://localhost:8082',
   'http://localhost:3000',
 ].filter((value, index, self) => self.indexOf(value) === index);

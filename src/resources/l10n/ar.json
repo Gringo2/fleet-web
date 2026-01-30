@@ -550,7 +550,7 @@
     "notificatorMail": "بريد إلكتروني",
     "notificatorSms": "رسائل قصيرة",
     "notificatorFirebase": "إشعارات الدفع",
-    "notificatorTraccar": "إشعارات الدفع",
+    "notificatorFleet": "إشعارات الدفع",
     "notificatorTelegram": "تيليغرام",
     "notificatorPushover": "Pushover",
     "reportReplay": "إعادة تشغيل",

@@ -550,7 +550,7 @@
     "notificatorMail": "Email",
     "notificatorSms": "SMS",
     "notificatorFirebase": "Envio de Notificação",
-    "notificatorTraccar": "Envio de Notificação",
+    "notificatorFleet": "Envio de Notificação",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Empurrar",
     "reportReplay": "Replay",

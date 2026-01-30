@@ -550,7 +550,7 @@
     "notificatorMail": "Email",
     "notificatorSms": "СМС",
     "notificatorFirebase": "Push Уведомления Firebase",
-    "notificatorTraccar": "Push Уведомления Traccar",
+    "notificatorFleet": "Push Уведомления Fleet",
     "notificatorTelegram": "Телеграмм",
     "notificatorPushover": "Нажатие",
     "reportReplay": "Воспроизвести",

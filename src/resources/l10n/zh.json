@@ -550,7 +550,7 @@
     "notificatorMail": "电子邮件",
     "notificatorSms": "短信",
     "notificatorFirebase": "推送通知",
-    "notificatorTraccar": "推送通知",
+    "notificatorFleet": "推送通知",
     "notificatorTelegram": "Telegram 账号",
     "notificatorPushover": "Pushover",
     "reportReplay": "轨迹回放",

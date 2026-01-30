@@ -550,7 +550,7 @@
     "notificatorMail": "อีเมล",
     "notificatorSms": "ส่งข้อความ",
     "notificatorFirebase": "การแจ้งเตือนแบบพุช",
-    "notificatorTraccar": "การแจ้งเตือนแบบพุช",
+    "notificatorFleet": "การแจ้งเตือนแบบพุช",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
     "reportReplay": "เล่นซ้ำ",

@@ -550,7 +550,7 @@
     "notificatorMail": "Email",
     "notificatorSms": "කෙටි පණිවිඩ",
     "notificatorFirebase": "Push Notification",
-    "notificatorTraccar": "Push Notification",
+    "notificatorFleet": "Push Notification",
     "notificatorTelegram": "විදුලි පණිවුඩ",
     "notificatorPushover": "Pushover",
     "reportReplay": "නැවත ධාවනය කරන්න",

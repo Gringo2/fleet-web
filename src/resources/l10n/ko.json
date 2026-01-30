@@ -550,7 +550,7 @@
     "notificatorMail": "Email",
     "notificatorSms": "메시지",
     "notificatorFirebase": "Push Notification",
-    "notificatorTraccar": "Push Notification",
+    "notificatorFleet": "Push Notification",
     "notificatorTelegram": "텔레그램",
     "notificatorPushover": "Pushover",
     "reportReplay": "리플레이",

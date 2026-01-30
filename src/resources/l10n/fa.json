@@ -550,7 +550,7 @@
     "notificatorMail": "Email",
     "notificatorSms": "پیامک",
     "notificatorFirebase": "Push Notification",
-    "notificatorTraccar": "Push Notification",
+    "notificatorFleet": "Push Notification",
     "notificatorTelegram": "تلگرام",
     "notificatorPushover": "پوش آور",
     "reportReplay": "بازپخش",

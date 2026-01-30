@@ -550,7 +550,7 @@
     "notificatorMail": "Ηλεκτρονικό ταχυδρομείο",
     "notificatorSms": "SMS",
     "notificatorFirebase": "Ειδοποίηση Push",
-    "notificatorTraccar": "Ειδοποίηση Push",
+    "notificatorFleet": "Ειδοποίηση Push",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
     "reportReplay": "Επανάληψη",

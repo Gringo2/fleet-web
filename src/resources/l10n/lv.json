@@ -550,7 +550,7 @@
     "notificatorMail": "E-pasts",
     "notificatorSms": "SMS",
     "notificatorFirebase": "Push Paziņojums",
-    "notificatorTraccar": "Push Paziņojums",
+    "notificatorFleet": "Push Paziņojums",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
     "reportReplay": "Atkārtot",

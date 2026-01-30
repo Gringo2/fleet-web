@@ -550,7 +550,7 @@
     "notificatorMail": "Email",
     "notificatorSms": "यसएमयस",
     "notificatorFirebase": "Push Notification",
-    "notificatorTraccar": "Push Notification",
+    "notificatorFleet": "Push Notification",
     "notificatorTelegram": "टेलिग्राम",
     "notificatorPushover": "पुशओभर",
     "reportReplay": "रिप्ले",

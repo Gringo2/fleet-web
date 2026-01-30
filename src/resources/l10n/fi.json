@@ -550,7 +550,7 @@
     "notificatorMail": "Sähköposti",
     "notificatorSms": "Tekstiviesti",
     "notificatorFirebase": "Ponnahdusilmoitus",
-    "notificatorTraccar": "Ponnahdusilmoitus",
+    "notificatorFleet": "Ponnahdusilmoitus",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
     "reportReplay": "Toista",

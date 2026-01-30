@@ -1,6 +1,6 @@
-# Contributing to Traccar Web Interface
+# Contributing to Fleet Web Interface
 
-Thank you for your interest in contributing to the Traccar web interface!
+Thank you for your interest in contributing to the Fleet web interface!
 
 ## Code Style
 
@@ -15,14 +15,14 @@ Thank you for your interest in contributing to the Traccar web interface!
 2. **Install** dependencies: `npm install`.
 3. **Run** the development server: `npm start`.
 4. **Lint** your code: `npm run lint`.
-5. **Test** your changes thoroughly against a local or demo Traccar backend.
+5. **Test** your changes thoroughly against a local or demo Fleet backend.
 6. **Submit** a Pull Request with a clear description of the changes.
 
 ## Reporting Issues
 
 - Use the GitHub Issues tracker to report bugs.
 - Provide clear steps to reproduce the issue.
-- Include information about your environment (Browser, OS, Traccar version).
+- Include information about your environment (Browser, OS, Fleet version).
 
 ## Pull Request Guidelines
 

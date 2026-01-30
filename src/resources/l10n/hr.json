@@ -550,7 +550,7 @@
     "notificatorMail": "Email",
     "notificatorSms": "SMS",
     "notificatorFirebase": "Push obavijest",
-    "notificatorTraccar": "Push obavijest",
+    "notificatorFleet": "Push obavijest",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pošalji",
     "reportReplay": "Ponovi",
