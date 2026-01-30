@@ -1,12 +1,16 @@
+<p align="center">
+  <img src="public/logo.png" alt="Fleet Logo" width="600">
+</p>
+
 # Fleet Web Interface
 
-Modern, responsive web interface for the [Fleet GPS tracking platform](https://www.Fleet.org).
+Modern, responsive web interface for the Fleet GPS tracking platform.
 
 ## Overview
 
 Fleet is an open-source server for various GPS tracking devices. This repository contains the official React-based web interface. It provides real-time tracking, historical reports, geofencing, and account management.
 
-For the backend server, please check the [main Fleet repository](https://github.com/Fleet/Fleet).
+For the backend server, please check the [main Fleet repository](https://github.com/Gringo2/fleet-backend).
 
 ## Tech Stack
 
@@ -68,7 +72,7 @@ The output will be in the `build` directory.
 - [Deployment Guide](docs/deployment.md) (Docker & Standalone)
 - [State Management](docs/state.md) (Redux Store & Data Flow)
 - [Map Architecture](docs/map.md) (MapLibre Layers & Components)
-- [Backend Documentation](../Fleet/README.md)
+- [Backend Documentation](https://github.com/Gringo2/fleet-backend)
 
 ## License
 
